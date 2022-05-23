@@ -1,0 +1,10 @@
+REM Type Hello World into Windows notepad. 
+REM Target: Windows. 
+REM Author: Equispalt. 
+DELAY 1000 
+GUI r 
+DELAY 100 
+STRING c:\windows\notepad.exe 
+ENTER 
+DELAY 1000 
+STRING Hello World
